@@ -43,7 +43,7 @@ clone it -> git clone https://github.com/Sm6718858/Log-Ingestion-system.git
 ```bash
 cd Backend
 npm install
-node server.js
+node index.js
 
 
     Runs on: http://localhost:5000
