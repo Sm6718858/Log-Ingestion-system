@@ -2,10 +2,6 @@
 
 A full-stack developer assignment simulating a real-world developer tool used for monitoring and debugging applications. The app allows ingestion of logs via an API and querying/filtering those logs via an intuitive frontend dashboard.
 
-***Project Structure***
-c:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-07-05 213734.png
-
-
 
 ---
 
@@ -41,7 +37,7 @@ c:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-07-05 213734.png
 ---
 
 ## ⚙️ Setup Instructions
-
+clone it -> git clone https://github.com/Sm6718858/Log-Ingestion-system.git
 ### 🖥 Backend Setup
 
 ```bash
