@@ -84,4 +84,4 @@ npm run dev
  **Author**
 Shivam Mishra
 Frontend & Backend Developer
-LinkedIn | sm6718858@gmail.com
+sm6718858@gmail.com
