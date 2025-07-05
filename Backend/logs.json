@@ -1,0 +1,26 @@
+[
+  {
+    "level": "info",
+    "message": "This is coder and Engineer",
+    "resourceId": "42",
+    "timestamp": "2025-07-05T08:15",
+    "traceId": "1",
+    "spanId": "1",
+    "commit": "shivam",
+    "metadata": {
+      "parentResourceId": "1"
+    }
+  },
+  {
+    "level": "warn",
+    "message": "Testing",
+    "resourceId": "2",
+    "timestamp": "2025-07-06T08:15",
+    "traceId": "1",
+    "spanId": "2",
+    "commit": "shivam",
+    "metadata": {
+      "parentResourceId": "1"
+    }
+  }
+]
